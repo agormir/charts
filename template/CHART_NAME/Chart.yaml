@@ -17,18 +17,8 @@ dependencies:
       - bitnami-common
     version: 2.x.x
 description: %%DESCRIPTION%%
-home: https://bitnami.com
-icon: https://bitnami.com/assets/stacks/%%IMAGE_NAME%%/img/%%IMAGE_NAME%%-stack-220x234.png
-keywords:
-  - %%UPSTREAM_PROJECT_KEYWORD%%
-  - %%UPSTREAM_PROJECT_KEYWORD%%
-  - ...
 maintainers:
   - name: VMware, Inc.
     url: https://github.com/bitnami/charts
 name: %%CHART_NAME%%
-sources:
-  - https://github.com/bitnami/containers/tree/main/bitnami/%%IMAGE_NAME%%
-  - %%UPSTREAM_PROJECT_SOURCE_CODE_URL%%
-  - ...
 version: 0.1.0
